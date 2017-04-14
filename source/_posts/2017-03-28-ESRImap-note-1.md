@@ -1,8 +1,8 @@
 ---
 title: ESRImap-筆記
 comments: false
-categories: [Coding, Android Studio, ESRI]
-tags: [Android Studio, ESRI, Arcgis]
+categories: [Coding, Android]
+tags: [Android, ESRI, Arcgis]
 date: 2017-03-28 09:55:03
 ---
 
@@ -11,7 +11,7 @@ date: 2017-03-28 09:55:03
 
 <br>
 參考資料: <https://geonet.esri.com/thread/179250>
-```
+```java
 mMapView.setOnStatusChangedListener(new OnStatusChangedListener() {
 	@Override
 	public void onStatusChanged(Object o, OnStatusChangedListener.STATUS status) {

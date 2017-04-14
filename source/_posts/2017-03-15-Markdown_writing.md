@@ -41,7 +41,7 @@ comments: false
 >引言
 >>引言2
 
-```
+```md
 >引言
 >>引言2
 ```
@@ -52,7 +52,7 @@ comments: false
 引言三
 </blockquote>
 
-```
+```md
 <blockquote class="blockquote-center">
 引言三
 </blockquote>
@@ -69,7 +69,7 @@ comments: false
 在台灣，爬山的人所說的中級山，指的不是風景優美使人嚮往的高山百岳，也不是到了周末熱鬧滾滾的都市近郊山徑，乃是在二者之間，罕無人煙的廣大蠻荒山野。
 {% endblockquote %}
 
-```
+```md
 {% blockquote 蔡日興 https://jtsai.gitbooks.io/forest_deer_hunter/content/section11.html 地圖上不存在的林道 %}
 在台灣，爬山的人所說的中級山...
 {% endblockquote %}
@@ -83,7 +83,7 @@ Link
 行內連結
 This is [link_name](https://www.facebook.com/ "Title") inline link.
 
-```
+```md
 This is [link_name](https://www.facebook.com/ "Title") inline link.
 ```
 
@@ -91,7 +91,7 @@ This is [link_name](https://www.facebook.com/ "Title") inline link.
 <https://google.com>
 <typebrook@gmail.com> (手機可直接送信)
 
-```
+```md
 <https://google.com>
 <typebrook@gmail.com> (手機可直接送信)
 ```
@@ -106,7 +106,7 @@ This is [link_name](https://www.facebook.com/ "Title") inline link.
 ![Alt text](http://i.imgur.com/CzWevLy.jpg)
 
 
-```
+```md
 ![Alt text](http://i.imgur.com/CzWevLy.jpg)
 ```
 
@@ -116,7 +116,7 @@ This is [link_name](https://www.facebook.com/ "Title") inline link.
 程式碼
 ======
 This is syntax of tag
-```
+```md
  # Place your favicon.ico to /source directory.
  favicon: [your_new_icon.png]
 ```
@@ -130,7 +130,7 @@ This is syntax of tag
     
 This is `code` in line
 
-```
+```md
 2. This is `code` in line
 ```
 
@@ -159,21 +159,21 @@ This is `code` in line
 強調
 ======
 使用`*`  : *single asterisks*
-```
+```md
 *single asterisks*
 ```
 
 使用`_`  : _single underscores_
-```
+```md
 _single underscores_
 ```
 
 使用`**` : **double asterisks**
-```
+```md
 **double asterisks**
 ```
 
 使用`__` : __double underscores__
-```
+```md
 __double underscores__
 ```

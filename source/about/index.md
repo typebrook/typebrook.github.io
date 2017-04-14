@@ -16,7 +16,7 @@ comments: false
 若您有任何問題，
 以下是我的連絡方式
 * * *
-_mail: [typebrook@gamil.com](mailto:typebrook@gmail.com)_
+_mail: [typebrook@gmail.com](mailto:typebrook@gmail.com)_
 _facebook: [謝晉凡](https://www.facebook.com/typebrook)_
 _Line ID: typebrook_
 
