@@ -32,6 +32,7 @@ Ctrl + Q     : See document
 取得時間
 ```java
 new Date(System.currentTimeMillis())
+DateFormat.getTimeInstance().format(new Date());
 ```
 
 <br>
