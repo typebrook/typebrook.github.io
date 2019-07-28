@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://typebrook.github.io</id>
     <title>Pham&apos;s blog</title>
-    <updated>2019-07-28T08:36:41.220Z</updated>
+    <updated>2019-07-28T08:37:38.087Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://typebrook.github.io"/>
     <link rel="self" href="https://typebrook.github.io/atom.xml"/>
@@ -22,6 +22,13 @@
         <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
 ✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
 ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[git學習資源]]></title>
+        <id>https://typebrook.github.io/post/2017-03-21-git-ref-1</id>
+        <link href="https://typebrook.github.io/post/2017-03-21-git-ref-1">
+        </link>
+        <updated>2017-03-21T01:27:46.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[將Github的認證時間拉長]]></title>
